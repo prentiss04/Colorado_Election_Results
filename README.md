@@ -28,11 +28,8 @@ The analysis of the election show the following:
 In addition to the candidate results of the recent election the Board of Elections manager has requested additional information on the voter turnout in the respective counties. The output required is as follows:  
 
 1. Determine the total number of votes cast.
-
 *2. Determine the number of votes cast in each county. (CHALLENGE DELIVERABLE)*
-
 _3. Document which county cast the greatest number of votes. (CHALLENGE DELIVERABLE)_
-
 4. Provide a complete list of candidates who received votes. 
 5. Determine the number of votes cast per candidate. 
 6. Calculate the percentage of votes cast per candidate. 
@@ -56,5 +53,12 @@ The analysis of the election show the following:
   - Diana DeGette who received 272,892 votes, comprising 73.8% of the total cast
   
 ## Further considerations
-The data file that election officials provided contains a small sliver of voter information (county and candidate). While not requested by officials, we could have provided greater segmentation/breakdown. I.e. how did candidates fare in different counties or where did the greatest volume of votes for specific candidates come from. In our case with one large county providing the lions' share of the votes, the answers to some of the questions are fairly obvious. However as this project scales, answers to questions like these would be valuable. 
-Furthermore, in addition to greater granularity, more voter information could inform future decisions. We were not provided with target populations for the respective counties. It could be interesting to see what counties, neighborhoods are participating in elections to inform officials of trends in voter enthusiasm or apathy. 
+The data file that election officials provided contains a small sliver of voter information (county and candidate). While not requested 
+by officials, we could have provided greater segmentation/breakdown. I.e. how did candidates fare in different counties or where did the 
+greatest volume of votes for specific candidates come from. In our case with one large county providing the lions' share of the votes, 
+the answers to some of the questions are fairly obvious. However as this project scales, answers to questions like these would be 
+valuable. 
+
+Furthermore, in addition to greater granularity, more voter information could inform future decisions. We were not provided with target 
+populations for the respective counties. It could be interesting to see what counties, neighborhoods are participating in elections to 
+inform officials of trends in voter enthusiasm or apathy. 
