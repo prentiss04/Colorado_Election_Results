@@ -59,6 +59,6 @@ greatest volume of votes for specific candidates come from. In our case with one
 the answers to some of the questions are fairly obvious. However as this project scales, answers to questions like these would be 
 valuable. 
 
-Furthermore, in addition to greater granularity, more voter information could inform future decisions. We were not provided with target 
-populations for the respective counties. It could be interesting to see what counties, neighborhoods are participating in elections to 
-inform officials of trends in voter enthusiasm or apathy. 
+Furthermore, in addition to greater granularity, more voter information could inform future decisions. We were not provided with  
+voter populations for the respective counties. It could be interesting to see what counties, neighborhoods are participating in 
+elections to inform officials of trends in voter enthusiasm or apathy. 
