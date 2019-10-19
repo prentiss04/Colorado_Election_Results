@@ -27,8 +27,8 @@ The analysis of the election show the following:
 
 In addition to the candidate results of the recent election the Board of Elections manager has requested additional information on the voter turnout in the respective counties. The output required is as follows:  
 
-1. Determine the total number of votes cast. 
-*2. Determine the number of votes cast in each county. (CHALLENGE DELIVERABLE)* 
+1. Determine the total number of votes cast.<br/> 
+*2. Determine the number of votes cast in each county. (CHALLENGE DELIVERABLE)*<br.> 
 *3. Document which county cast the greatest number of votes. (CHALLENGE DELIVERABLE)* 
 4. Provide a complete list of candidates who received votes. 
 5. Determine the number of votes cast per candidate. 
