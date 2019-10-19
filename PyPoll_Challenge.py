@@ -46,9 +46,6 @@ leading_county = ""
 leading_county_count = 0
 leading_county_percentage = 0
 
-
-
-
 # Open the election results and read the file.
 with open(file_to_load) as election_data:
  
@@ -155,8 +152,6 @@ with open(file_to_save, "w") as txt_file:
     
     # Save the leading county's results to the text file.
     txt_file.write(leading_county_summary)
-
-
 
 # **************************************************************************************************************************
       
